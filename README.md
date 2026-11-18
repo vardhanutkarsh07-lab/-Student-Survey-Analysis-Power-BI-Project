@@ -49,7 +49,7 @@ Q1. Tabular Visualization – Conditional Formatting
 ```DAX
 'User Mappings'[Survey Location] = "Rural"
 ```
-https://github.com/vardhanutkarsh07-lab/-Student-Survey-Analysis-Power-BI-Project/blob/main/view_as_rural_role.png
+![View as Rural Role](view_as_rural_role.png)
 - **Relationship:** `User Mappings` is related to `Student Survey`, so the filter flows into all report visuals.
 - **Tested with *View as → Rural_role*:** the banner shows *"Now viewing as: Rural_role"*.
   - Table: only Rural rows (Boston, Los Angeles, New York, Seattle), total **1,84,699.18**.
