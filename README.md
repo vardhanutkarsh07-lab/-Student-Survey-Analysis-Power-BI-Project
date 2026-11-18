@@ -62,13 +62,19 @@ Q1. Tabular Visualization – Conditional Formatting
 
 - ### Q7. Publish, Master Dashboard & Scheduled Refresh
 - Report published to workspace **Project_1_utk**; the workspace contains the dashboard, report and semantic model.
+- ![Workspace Items](workspace_items.jpeg)
 - **Master Dashboard** pins: Funnel chart, Scatter plot, plus Donut and Average Age tiles from Q&A.
+- ![Master Dashboard](master_dashboard.jpeg)
 - **Data source:** Excel file via an on-premises data gateway (`Student_Survey` gateway).
+- ![Gateway Connection](gateway_connection.jpeg)
 - **Scheduled refresh:** Daily, **6 times, every 4 hours** → 1 AM, 5 AM, 9 AM, 1 PM, 5 PM, 9 PM (UTC+05:30 India).
+- ![Scheduled Refresh](scheduled_refresh.jpeg)
 
 - ### Q8. Power BI Q&A
 - **8a:** *"show average age"* → **Average Age = 14.38**.
+- ![Qna Average Age](qna_average_age.jpeg)
 - **8b:** *"total amount of purchase by Store location in donut chart"* → Total **642.08K**: New York 167.68K (26.11%), Los Angeles 167.39K (26.07%), Seattle 160.56K (25.01%), Boston 146.45K (22.81%).
+- ![Qna Donut Chart](qna_donut_chart.jpeg)
 
 ## 🔍 Key Insights
 - Suburban stores generate the highest purchase value; Urban and Rural trail at ~72% and ~69% of Suburb.
