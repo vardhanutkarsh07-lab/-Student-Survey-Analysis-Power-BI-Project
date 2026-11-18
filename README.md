@@ -1,4 +1,4 @@
-Student Survey Analysis – Power BI Project
+**📊 Student Survey Analysis – Power BI Project**
 
 > End-to-end Power BI project: data modelling, interactive report, row-level security, cloud publishing, dashboard, scheduled refresh and Q&A.
 
