@@ -51,6 +51,8 @@ Q1. Tabular Visualization – Conditional Formatting
 ```
 ![Manage Security Roles](manage_security_roles.png)
 - **Relationship:** `User Mappings` is related to `Student Survey`, so the filter flows into all report visuals.
+- ![Rural View Page1](rural_view_page1.png)
+- ![Rural View Page2](rural_view_page2.png)
 - **Tested with *View as → Rural_role*:** the banner shows *"Now viewing as: Rural_role"*.
   - Table: only Rural rows (Boston, Los Angeles, New York, Seattle), total **1,84,699.18**.
   - Matrix: Rural column only, total **30,034.43**.
