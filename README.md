@@ -50,6 +50,9 @@ Q1. Tabular Visualization – Conditional Formatting
 'User Mappings'[Survey Location] = "Rural"
 ```
 ![Manage Security Roles](manage_security_roles.png)
+
+![View As Rural Role](view_as_rural_role.png)
+
 - **Relationship:** `User Mappings` is related to `Student Survey`, so the filter flows into all report visuals.
 - ![Rural View Page1](rural_view_page1.png)
 - ![Rural View Page2](rural_view_page2.png)
